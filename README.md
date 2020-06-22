@@ -1,4 +1,8 @@
 # LbcCalculator
+
+V2.0 : Ce logiciel est maintenant un site web : moyenno.fr.
+Il fonctionne par url.
+
 Calcule le prix moyen d'un objet sur Leboncoin.fr pour l'instant ce logiciel ne gère que les Iphones.
 
 Si vous êtes intéressés et vous souhaitez que j'ajoute d'autre téléphones ou catégories (Immobilier , Voitures, etc...) ne pas hésiter a me contacter par mail : sammaoudia(at)gmail.com (remplacer (at) par @)
